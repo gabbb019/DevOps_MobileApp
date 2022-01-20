@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845396882719",
+    "firebase_url": "https://devopsproject-1c164-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "devopsproject-1c164",
+    "storage_bucket": "devopsproject-1c164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845396882719:android:6c645786353be76c1dac2a",
+        "android_client_info": {
+          "package_name": "com.example.devopsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845396882719-chridjb49stfehbe9btrmcua3k7s2rdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQmCZ8wX4lcJyBmmi5ZcL_uuJs8iq-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845396882719-chridjb49stfehbe9btrmcua3k7s2rdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
